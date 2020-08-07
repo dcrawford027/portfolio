@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Me</title>
+    <link rel="stylesheet" href="~/css/style.css">
+</head>
+<body>
+    <div class="navbar">
+        <p><a href="/">Home</a> | <a href="/projects">Projects</a> | Contact</p>
+        <h2>Contact Me!</h2>
+    </div>
+    <div class="form-container">
+        <form action="/makeContact" method="POST">
+            <div class="form-block">
+                <div class="form-row">
+                    <label for="name">Name</label>
+                    <input type="text" name="name" id="name">
+                </div>
+                <div class="form-row">
+                    <label for="email">Email</label>
+                    <input type="email" name="email" id="email">
+                </div>
+            </div>
+            <div class="form-block">
+                <label for="message">Message</label>
+                <textarea name="message" id="message" cols="40" rows="10"></textarea>
+            </div>
+            <button class="btn-send" type="submit">Send</button>
+        </form>
+    </div>
+</body>
+</html>

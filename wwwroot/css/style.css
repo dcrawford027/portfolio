@@ -1,0 +1,85 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+    text-align: center;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+    vertical-align: top;
+}
+
+.container {
+    padding: 20px;
+    text-align: center;
+    width: 50%;
+}
+
+.scrollbox {
+    width: 900px;
+    height: 600px;
+    overflow-y: scroll;
+    margin: 0 auto;
+}
+
+.card {
+    text-align: center;
+    padding: 20px;
+}
+
+.card-image {
+    display: inline-block;
+    width: 100px;
+    vertical-align: middle;
+    margin-right: 20px;
+}
+
+.card-info {
+    display: inline-block;
+    width: 700px;
+}
+
+.form-container {
+    width: 900px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+.form-block {
+    width: 49%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.form-row {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 15px;
+}
+
+.form-row label {
+    width: 25%;
+}
+
+.form-row input {
+    width: 75%;
+    height: 25px;
+}
+
+.btn-send {
+    background-color: green;
+    border-radius: 5px;
+    width: 100px;
+    height: 50px;
+    color: white;
+    border: 2px solid black;
+    font-size: 20px;
+}
+
+button:hover {
+    cursor: pointer;
+}

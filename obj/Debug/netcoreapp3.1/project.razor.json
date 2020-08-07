@@ -20519,6 +20519,22 @@
     "CSharpLanguageVersion": 800
   },
   "RootNamespace": "Portfolio_I",
-  "Documents": [],
+  "Documents": [
+    {
+      "FilePath": "/Users/dustincrawford/Documents/CodingDojo/csharp_stack/asp_net_core/Portfolio_I/Views/Portfolio/Contact.cshtml",
+      "TargetPath": "Views\\Portfolio\\Contact.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/dustincrawford/Documents/CodingDojo/csharp_stack/asp_net_core/Portfolio_I/Views/Portfolio/Projects.cshtml",
+      "TargetPath": "Views\\Portfolio\\Projects.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/dustincrawford/Documents/CodingDojo/csharp_stack/asp_net_core/Portfolio_I/Views/Portfolio/Index.cshtml",
+      "TargetPath": "Views\\Portfolio\\Index.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
   "SerializationFormat": "0.2"
 }

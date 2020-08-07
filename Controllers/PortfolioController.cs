@@ -6,21 +6,27 @@ namespace Portfolio_I.Controllers
     {
         // each route this controller handles
         [HttpGet("")] // type of request
-        public string Index()
+        public IActionResult Index()
         {
-            return "This is my index!";
+            return View("Index");
         }
 
         [HttpGet("projects")]
-        public string Projects()
+        public IActionResult Projects()
         {
-            return "These are my projects";
+            return View("Projects");
         }
 
         [HttpGet("contact")]
-        public string Contact()
+        public IActionResult Contact()
         {
-            return "This is my Contact!";
+            return View("Contact");
+        }
+
+        [HttpPost("makeContact")]
+        public IActionResult MakeContact()
+        {
+            return RedirectToAction("Index");
         }
     }
 }

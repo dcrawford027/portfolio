@@ -17,3 +17,16 @@
 /Users/dustincrawford/Documents/CodingDojo/csharp_stack/asp_net_core/Portfolio_I/obj/Debug/netcoreapp3.1/Portfolio_I.dll
 /Users/dustincrawford/Documents/CodingDojo/csharp_stack/asp_net_core/Portfolio_I/obj/Debug/netcoreapp3.1/Portfolio_I.pdb
 /Users/dustincrawford/Documents/CodingDojo/csharp_stack/asp_net_core/Portfolio_I/obj/Debug/netcoreapp3.1/Portfolio_I.genruntimeconfig.cache
+/Users/dustincrawford/Documents/CodingDojo/csharp_stack/asp_net_core/Portfolio_I/bin/Debug/netcoreapp3.1/Portfolio_I.Views.dll
+/Users/dustincrawford/Documents/CodingDojo/csharp_stack/asp_net_core/Portfolio_I/bin/Debug/netcoreapp3.1/Portfolio_I.Views.pdb
+/Users/dustincrawford/Documents/CodingDojo/csharp_stack/asp_net_core/Portfolio_I/obj/Debug/netcoreapp3.1/Portfolio_I.RazorAssemblyInfo.cache
+/Users/dustincrawford/Documents/CodingDojo/csharp_stack/asp_net_core/Portfolio_I/obj/Debug/netcoreapp3.1/Portfolio_I.RazorAssemblyInfo.cs
+/Users/dustincrawford/Documents/CodingDojo/csharp_stack/asp_net_core/Portfolio_I/obj/Debug/netcoreapp3.1/Portfolio_I.TagHelpers.input.cache
+/Users/dustincrawford/Documents/CodingDojo/csharp_stack/asp_net_core/Portfolio_I/obj/Debug/netcoreapp3.1/Portfolio_I.TagHelpers.output.cache
+/Users/dustincrawford/Documents/CodingDojo/csharp_stack/asp_net_core/Portfolio_I/obj/Debug/netcoreapp3.1/Portfolio_I.RazorCoreGenerate.cache
+/Users/dustincrawford/Documents/CodingDojo/csharp_stack/asp_net_core/Portfolio_I/obj/Debug/netcoreapp3.1/Razor/Views/Portfolio/Index.cshtml.g.cs
+/Users/dustincrawford/Documents/CodingDojo/csharp_stack/asp_net_core/Portfolio_I/obj/Debug/netcoreapp3.1/Portfolio_I.RazorTargetAssemblyInfo.cs
+/Users/dustincrawford/Documents/CodingDojo/csharp_stack/asp_net_core/Portfolio_I/obj/Debug/netcoreapp3.1/Portfolio_I.Views.pdb
+/Users/dustincrawford/Documents/CodingDojo/csharp_stack/asp_net_core/Portfolio_I/obj/Debug/netcoreapp3.1/Portfolio_I.csproj.CopyComplete
+/Users/dustincrawford/Documents/CodingDojo/csharp_stack/asp_net_core/Portfolio_I/obj/Debug/netcoreapp3.1/Razor/Views/Portfolio/Projects.cshtml.g.cs
+/Users/dustincrawford/Documents/CodingDojo/csharp_stack/asp_net_core/Portfolio_I/obj/Debug/netcoreapp3.1/Razor/Views/Portfolio/Contact.cshtml.g.cs
